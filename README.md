@@ -3,7 +3,6 @@ The Model Zoo of Cognitive Diagnosis Models,including classic Deterministic Inpu
 # Cognitive Diagnostic Model Made More Practical by Genetic Algorithm
 Cognitive diagnosis has attracted increasing attention owing to the flourishing development of online education. As one of the most widely used cognitive diagnostic models, DINA (Deterministic Inputs, Noisy And gate) evaluates students’ knowledge mastery based on their performance of the exercises. However, the traditional DINA model and its variants face the problem of exponential explosion with respect to the number of knowledge components. The running time of these models
 increases exponentially with the number of knowledge components, limiting their practical use. To make cognitive diagnosis more practical, an effective memetic algorithm composed of a genetic algorithm and a local search operator is applied to DINA to address the exponential explosion problem of the traditional model. Moreover, an improved adaptive local search method without the need of specifying any parameters is proposed to reduce redundant local searches and accelerate the running time. Experiments on real-world datasets demonstrate the effectiveness of the proposed models with respect to both time and accuracy.  
-# Code
 Source code and data set for the paper *Cognitive Diagnostic Model Made More Practical by Genetic Algorithm*.
 If this code helps with your studies, please kindly cite the following publication:
 ```
