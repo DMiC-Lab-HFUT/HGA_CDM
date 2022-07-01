@@ -14,6 +14,13 @@ If this code helps with your studies, please kindly cite the following publicati
 }
 ```
 # Dependencies:
+  * python 3.6
+  * matplotlib
+  * numpy
+  * pandas
+  * sklearn
+  * math
+  * time
 
 
 # Usage
