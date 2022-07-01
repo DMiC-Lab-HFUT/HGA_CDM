@@ -26,7 +26,7 @@ doi={10.1109/TETCI.2022.3182692}}
 
 
 # Usage
-The dataset of the project is saved in the *dataSets* folder, and the running results are saved in the *czy_result* folder.  
+The dataset of the project is saved in the *dataSets* folder, and the running results are saved in the *_results* folder.  
 If you want to run the program, just run the main.py file.  
 ` python main.py`  
 * The `func.py` program mainly includes some basic functions, such as acquiring the knowledge point inspection matrix, etc. 
