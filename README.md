@@ -37,5 +37,7 @@ The *test_model.py* file is used to test the model.
 
 
 # Data Set
+The datasets used for training in this project are *FrcSub, Math1, Math2, Scores*.  
+For each dataset, the above five models were used for training and testing, and the effects were compared on the five evaluation indicators of *AUC, Accuracy, Recall, F1, and N_LS*.  
 # Details
-# Correction
+
