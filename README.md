@@ -24,6 +24,16 @@ If this code helps with your studies, please kindly cite the following publicati
 
 
 # Usage
+The dataset of the project is saved in the *dataSets* folder, and the running results are saved in the *czy_result* folder.  
+If you want to run the program, just run the main.py file.
+` python main.py`  
+The *func.py* program mainly includes some basic functions, such as acquiring the knowledge point inspection matrix, etc.  
+The *myAlgorithms.py* file mainly contains the functions of the GA_NBA model and the GA model.  
+The *train_model.py* file is used to train the model.  
+The *test_model.py* file is used to test the model.  
+The *tools.py* file mainly contains functions to save the training results.  
+ 
+
 
 # Data Set
 # Details
