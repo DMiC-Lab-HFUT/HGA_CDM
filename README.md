@@ -37,6 +37,10 @@ If you want to run the program, just run the main.py file.
 # Data Set
 The datasets used for training in this project are *FrcSub, Math1, Math2, Scores*.  
 For each dataset, the above five models were used for training and testing, and the effects were compared on the five evaluation indicators of *AUC, Accuracy, Recall, F1, and N_LS*.  
-At the same time, the article also analyzes the influence of *the number of knowledge points, crossover probability Pc, mutation probability Pm and population size n_pop* on the experimental performance.
+
+
 # Details
+* The results of the comparison experiments are presented from the following aspects: the prediction performance, the times of local search, and the running time. 
+* To avoid accidental results, the experiments used the five-fold cross-validation method, and all the experimental results were averaged from 20 independent replicate experiments for each fold.
+* The article analyzes the influence of *the number of knowledge points, crossover probability Pc, mutation probability Pm and population size n_pop* on the experimental performance.  
 
