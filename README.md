@@ -5,8 +5,15 @@ Cognitive diagnosis has attracted increasing attention owing to the flourishing 
 increases exponentially with the number of knowledge components, limiting their practical use. To make cognitive diagnosis more practical, an effective memetic algorithm composed of a genetic algorithm and a local search operator is applied to DINA to address the exponential explosion problem of the traditional model. Moreover, an improved adaptive local search method without the need of specifying any parameters is proposed to reduce redundant local searches and accelerate the running time. Experiments on real-world datasets demonstrate the effectiveness of the proposed models with respect to both time and accuracy.  
 Source code and data set for the paper *Cognitive Diagnostic Model Made More Practical by Genetic Algorithm*.  
 If this code helps with your studies, please kindly cite the following publication:  
-`doi: [10.1109/TETCI.2022.3182692.]`
-
+```
+@ARTICLE{9812476,  
+author={Bu, Chenyang and Liu, Fei and Cao, Zhiyong and Li, Lei and Zhang, Yuhong and Hu, Xuegang and Luo, Wenjian},  
+journal={IEEE Transactions on Emerging Topics in Computational Intelligence},   
+title={Cognitive Diagnostic Model Made More Practical by Genetic Algorithm},   
+year={2022},  
+pages={1-15},  
+doi={10.1109/TETCI.2022.3182692}}
+```
 
 # Dependencies:
   * python 3.6
